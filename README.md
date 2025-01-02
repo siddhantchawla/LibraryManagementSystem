@@ -1,2 +1,2 @@
-# LibraryManagementSystem
-A sample Library Management System to practice LLD. Written in C++
+# LowLevelDesign
+I will use this repository to store the code I write while practicing LLD. I will be using C++. 
